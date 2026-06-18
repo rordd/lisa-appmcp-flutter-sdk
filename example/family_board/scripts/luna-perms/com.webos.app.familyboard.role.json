@@ -1,0 +1,16 @@
+{
+    "appId": "com.webos.app.familyboard",
+    "type": "regular",
+    "allowedNames": [
+        "com.webos.app.familyboard-*"
+    ],
+    "trustLevel": "",
+    "permissions": [
+        {
+            "service": "com.webos.app.familyboard-*",
+            "outbound": [
+                "*"
+            ]
+        }
+    ]
+}
